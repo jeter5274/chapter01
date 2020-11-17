@@ -12,7 +12,16 @@ public class Ex08 {
 			}
 			System.out.println("*");
 		}
-
+		/* 수업에서 짠거
+		int xline, yline;
+		
+		for(yline=1; yline<=6; yline++) {
+			for(xline=1; xline<=yline; xline++) {
+				System.out.print("*");
+			}
+			System.out.println("");
+		}
+		*/
 	}
 
 }
